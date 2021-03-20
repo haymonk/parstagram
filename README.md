@@ -19,7 +19,7 @@ The following **bonus** features are implemented:
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past posts infinitely. (2pts)
 
-And additional features added include:
+Additional features added include:
 - [x] Ordering/retrieving posts by most recently created
 
 ## Video Walkthrough
